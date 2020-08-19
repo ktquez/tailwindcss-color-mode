@@ -1,0 +1,31 @@
+{
+  "name": "tailwindcss-color-mode",
+  "version": "0.1.0",
+  "description": "A Tailwind CSS plugin that adds variants for color modes.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktquez/tailwindcss-color-mode.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "css",
+    "styles",
+    "color-mode",
+    "dark-theme",
+    "dark-mode",
+    "plugin"
+  ],
+  "author": {
+    "name": "Alan Ktquez",
+    "email": "ktquez@gmail.com",
+    "url": "https://github.com/ktquez/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ktquez/tailwindcss-color-mode/issues"
+  },
+  "homepage": "https://github.com/ktquez/tailwindcss-color-mode#readme"
+}
